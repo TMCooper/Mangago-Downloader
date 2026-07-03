@@ -1,6 +1,3 @@
-[submodule "MangagoAPI"]
-	path = MangagoAPI
-	url = https://github.com/TMCooper/Mangago-API.git
 [submodule "Mangago-API"]
 	path = Mangago-API
 	url = https://github.com/TMCooper/Mangago-API
